@@ -1,8 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto);
 	
 	#player {
-	width: 320px; 									
-	height: 210px; 									
+	width: 360px; 									
+	height: 640px; 									
 	padding: 10px;									
 	background-image: url(../img/container.png); 		
 	background-color: #303030;						
